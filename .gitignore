@@ -1,0 +1,6 @@
+core-agent/dist/
+core-agent/coverage/
+core-agent/node_modules/
+vscode-extension/coverage/
+vscode-extension/node_modules/
+vscode-extension/out

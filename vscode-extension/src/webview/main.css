@@ -1,0 +1,190 @@
+/* Styles de base pour l'interface utilisateur DevAI */
+
+:root {
+  --devai-primary: #0078D4;
+  --devai-secondary: #2C2C32;
+  --devai-background: #1E1E1E;
+  --devai-text: #CCCCCC;
+  --devai-border: #3E3E42;
+  --devai-success: #4CAF50;
+  --devai-warning: #FFC107;
+  --devai-error: #E74C3C;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--devai-background);
+  color: var(--devai-text);
+}
+
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.chat-messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem;
+}
+
+.message {
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  max-width: 80%;
+}
+
+.message-user {
+  background-color: var(--devai-primary);
+  align-self: flex-end;
+  margin-left: auto;
+}
+
+.message-assistant {
+  background-color: var(--devai-secondary);
+  align-self: flex-start;
+}
+
+.input-container {
+  display: flex;
+  padding: 1rem;
+  border-top: 1px solid var(--devai-border);
+}
+
+.input-box {
+  flex: 1;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--devai-border);
+  background-color: var(--devai-secondary);
+  color: var(--devai-text);
+  resize: none;
+  min-height: 40px;
+  max-height: 200px;
+}
+
+.send-button {
+  margin-left: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: var(--devai-primary);
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.send-button:hover {
+  background-color: #106EBE;
+}
+
+.toolbar {
+  display: flex;
+  padding: 0.5rem;
+  border-bottom: 1px solid var(--devai-border);
+}
+
+.toolbar-button {
+  margin-right: 0.5rem;
+  padding: 0.5rem;
+  background-color: transparent;
+  color: var(--devai-text);
+  border: 1px solid var(--devai-border);
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+.toolbar-button:hover {
+  background-color: var(--devai-secondary);
+}
+
+.suggestions-container {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.suggestion {
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding: 0.25rem 0.5rem;
+  background-color: var(--devai-secondary);
+  color: var(--devai-text);
+  border: 1px solid var(--devai-border);
+  border-radius: 1rem;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.suggestion:hover {
+  background-color: var(--devai-primary);
+}
+
+.tool-execution {
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 0.25rem;
+  font-family: monospace;
+}
+
+.tool-execution-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.25rem;
+}
+
+.tool-execution-content {
+  max-height: 200px;
+  overflow-y: auto;
+  white-space: pre-wrap;
+}
+
+/* Styles pour le mode clair */
+.theme-light {
+  --devai-background: #F5F5F5;
+  --devai-text: #333333;
+  --devai-secondary: #E0E0E0;
+  --devai-border: #CCCCCC;
+}
+
+/* Styles pour le markdown */
+.markdown-content h1, .markdown-content h2, .markdown-content h3 {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.markdown-content p {
+  margin-bottom: 0.75rem;
+}
+
+.markdown-content pre {
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  overflow-x: auto;
+}
+
+.markdown-content code {
+  font-family: monospace;
+}
+
+.markdown-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.markdown-content th, .markdown-content td {
+  border: 1px solid var(--devai-border);
+  padding: 0.5rem;
+}
+
+.markdown-content th {
+  background-color: var(--devai-secondary);
+}
