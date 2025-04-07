@@ -1,0 +1,469 @@
+log.ts:450  WARN Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+warn @ log.ts:450
+warn @ log.ts:559
+warn @ logService.ts:47
+(anonymous) @ extensionsProposedApi.ts:48
+Ppt @ extensionsProposedApi.ts:46
+o @ instantiationService.ts:162
+createInstance @ instantiationService.ts:128
+Vpt @ nativeExtensionService.ts:91
+o @ instantiationService.ts:162
+x @ instantiationService.ts:295
+w @ instantiationService.ts:284
+v @ instantiationService.ts:273
+u @ instantiationService.ts:206
+s @ instantiationService.ts:190
+get @ instantiationService.ts:102
+(anonymous) @ workbench.ts:133
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:128
+open @ desktop.main.ts:134
+await in open
+pqs @ desktop.main.ts:418
+(anonymous) @ workbench.ts:312
+await in (anonymous)
+(anonymous) @ workbench.ts:312
+log.ts:450  WARN Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+warn @ log.ts:450
+warn @ log.ts:559
+warn @ logService.ts:47
+(anonymous) @ extensionsProposedApi.ts:48
+Ppt @ extensionsProposedApi.ts:46
+o @ instantiationService.ts:162
+createInstance @ instantiationService.ts:128
+Vpt @ nativeExtensionService.ts:91
+o @ instantiationService.ts:162
+x @ instantiationService.ts:295
+w @ instantiationService.ts:284
+v @ instantiationService.ts:273
+u @ instantiationService.ts:206
+s @ instantiationService.ts:190
+get @ instantiationService.ts:102
+(anonymous) @ workbench.ts:133
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:128
+open @ desktop.main.ts:134
+await in open
+pqs @ desktop.main.ts:418
+(anonymous) @ workbench.ts:312
+await in (anonymous)
+(anonymous) @ workbench.ts:312
+log.ts:450  WARN Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+warn @ log.ts:450
+warn @ log.ts:559
+warn @ logService.ts:47
+(anonymous) @ extensionsProposedApi.ts:48
+Ppt @ extensionsProposedApi.ts:46
+o @ instantiationService.ts:162
+createInstance @ instantiationService.ts:128
+Vpt @ nativeExtensionService.ts:91
+o @ instantiationService.ts:162
+x @ instantiationService.ts:295
+w @ instantiationService.ts:284
+v @ instantiationService.ts:273
+u @ instantiationService.ts:206
+s @ instantiationService.ts:190
+get @ instantiationService.ts:102
+(anonymous) @ workbench.ts:133
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:128
+open @ desktop.main.ts:134
+await in open
+pqs @ desktop.main.ts:418
+(anonymous) @ workbench.ts:312
+await in (anonymous)
+(anonymous) @ workbench.ts:312
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+[Violation] Added non-passive event listener to a scroll-blocking <some> event. Consider marking event handler as 'passive' to make the page more responsive. See <URL>
+localProcessExtensionHost.ts:345 [Extension Host] STOPPED on first line for debugging on port 53262
+F @ localProcessExtensionHost.ts:345
+await in F
+E @ localProcessExtensionHost.ts:187
+start @ localProcessExtensionHost.ts:178
+gIe @ extensionHostManager.ts:117
+o @ instantiationService.ts:162
+createInstance @ instantiationService.ts:128
+xb @ abstractExtensionService.ts:833
+wb @ abstractExtensionService.ts:812
+vb @ abstractExtensionService.ts:798
+kb @ abstractExtensionService.ts:459
+(anonymous) @ nativeExtensionService.ts:140
+requestIdleCallback
+z_ @ async.ts:1373
+Hb @ dom.ts:246
+(anonymous) @ nativeExtensionService.ts:139
+Promise.then
+Vpt @ nativeExtensionService.ts:137
+o @ instantiationService.ts:162
+x @ instantiationService.ts:295
+w @ instantiationService.ts:284
+v @ instantiationService.ts:273
+u @ instantiationService.ts:206
+s @ instantiationService.ts:190
+get @ instantiationService.ts:102
+(anonymous) @ workbench.ts:133
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:128
+open @ desktop.main.ts:134
+await in open
+pqs @ desktop.main.ts:418
+(anonymous) @ workbench.ts:312
+await in (anonymous)
+(anonymous) @ workbench.ts:312
+log.ts:440  INFO Started local extension host with pid 38540.
+log.ts:460   ERR [/c:/Users/admlocal/Documents/POC/devai]: property `engines` is mandatory and must be of type `object`
+error @ log.ts:460
+error @ log.ts:565
+error @ logService.ts:51
+validate @ extensionsScannerService.ts:721
+(anonymous) @ extensionsScannerService.ts:243
+(anonymous) @ extensionsScannerService.ts:239
+await in (anonymous)
+scanExtensionsUnderDevelopment @ extensionsScannerService.ts:236
+k @ cachedExtensionScanner.ts:89
+await in k
+startScanningExtensions @ cachedExtensionScanner.ts:45
+ec @ nativeExtensionService.ts:325
+(anonymous) @ nativeExtensionService.ts:321
+(anonymous) @ async.ts:1903
+requestIdleCallback
+z_ @ async.ts:1373
+Hb @ dom.ts:246
+(anonymous) @ nativeExtensionService.ts:139
+Promise.then
+Vpt @ nativeExtensionService.ts:137
+o @ instantiationService.ts:162
+x @ instantiationService.ts:295
+w @ instantiationService.ts:284
+v @ instantiationService.ts:273
+u @ instantiationService.ts:206
+s @ instantiationService.ts:190
+get @ instantiationService.ts:102
+(anonymous) @ workbench.ts:133
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:128
+open @ desktop.main.ts:134
+await in open
+pqs @ desktop.main.ts:418
+(anonymous) @ workbench.ts:312
+await in (anonymous)
+(anonymous) @ workbench.ts:312
+log.ts:440  INFO Loading development extension at c:\Users\admlocal\Documents\POC\devai\vscode-extension
+languagesAssociations.ts:73 Overwriting extension <<.sql>> to now point to mime <<text/x-sqlite>>
+(anonymous) @ languagesAssociations.ts:73
+AWt @ languagesAssociations.ts:67
+Lhe @ languagesAssociations.ts:42
+u @ languagesRegistry.ts:201
+t @ languagesRegistry.ts:175
+_registerLanguages @ languagesRegistry.ts:129
+s @ languagesRegistry.ts:119
+setDynamicLanguages @ languagesRegistry.ts:108
+(anonymous) @ languageService.ts:273
+d @ extensionsRegistry.ts:154
+acceptUsers @ extensionsRegistry.ts:145
+Jb @ abstractExtensionService.ts:1162
+Gb @ abstractExtensionService.ts:1092
+lb @ abstractExtensionService.ts:543
+await in lb
+kb @ abstractExtensionService.ts:463
+await in kb
+(anonymous) @ nativeExtensionService.ts:140
+requestIdleCallback
+z_ @ async.ts:1373
+Hb @ dom.ts:246
+(anonymous) @ nativeExtensionService.ts:139
+Promise.then
+Vpt @ nativeExtensionService.ts:137
+o @ instantiationService.ts:162
+x @ instantiationService.ts:295
+w @ instantiationService.ts:284
+v @ instantiationService.ts:273
+u @ instantiationService.ts:206
+s @ instantiationService.ts:190
+get @ instantiationService.ts:102
+(anonymous) @ workbench.ts:133
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:128
+open @ desktop.main.ts:134
+await in open
+pqs @ desktop.main.ts:418
+(anonymous) @ workbench.ts:312
+await in (anonymous)
+(anonymous) @ workbench.ts:312
+webviewElement.ts:484 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+mountTo @ webviewElement.ts:484
+P @ overlayWebview.ts:249
+claim @ overlayWebview.ts:135
+oc @ webviewViewPane.ts:163
+(anonymous) @ webviewViewPane.ts:94
+B @ event.ts:1208
+C @ event.ts:1219
+fire @ event.ts:1243
+setVisible @ viewPane.ts:409
+(anonymous) @ viewPaneContainer.ts:692
+setVisible @ viewPaneContainer.ts:692
+setVisible @ panecomposite.ts:53
+Fb @ compositePart.ts:282
+Fb @ paneCompositePart.ts:237
+Db @ compositePart.ts:159
+Cb @ compositePart.ts:123
+Cc @ paneCompositePart.ts:528
+openPaneComposite @ paneCompositePart.ts:508
+await in openPaneComposite
+openPaneComposite @ paneCompositePartService.ts:49
+(anonymous) @ layout.ts:1050
+await in (anonymous)
+Kb @ layout.ts:1056
+vc @ workbench.ts:400
+(anonymous) @ workbench.ts:165
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:128
+open @ desktop.main.ts:134
+await in open
+pqs @ desktop.main.ts:418
+(anonymous) @ workbench.ts:312
+await in (anonymous)
+(anonymous) @ workbench.ts:312
+index.html?id=06551382-f20b-4a1c-b375-8c42e1f2f63c&origin=88443b6f-86a0-41f1-bf47-fc3d667dab80&swVersion=4&extensionId=devai.devai-vscode-extension&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app&purpose=webviewView:281 Found unexpected service worker controller. Found: vscode-webview://19go1093k94odn8vsn6tnd8pjqr64s0ug1celkq0iqueej8icou6/service-worker.js?v=4&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&id=61e66eab-4179-42f1-a0e6-8da40dfc1198&remoteAuthority=. Expected: service-worker.js?v=4&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&id=06551382-f20b-4a1c-b375-8c42e1f2f63c&remoteAuthority=. Waiting for controllerchange.
+log.ts:440  INFO Settings Sync: Account status changed from uninitialized to unavailable
+localProcessExtensionHost.ts:275 Extension Host
+localProcessExtensionHost.ts:276 Debugger attached.
+console.ts:137 [Extension Host] DevAI extension is now active! (at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+console.ts:137 [Extension Host] Terminal execute handler registered (at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+console.ts:137 [Extension Host] File write handler registered (at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+console.ts:137 [Extension Host] Docker execute handler registered (at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+console.ts:137 [Extension Host] Status updated: {isProcessing: false, currentModel: ''} (at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+console.ts:137 [Extension Host] DevAI Core initialized with config: {llm: {…}, tools: {…}, memory: {…}, security: {…}, i18n: {…}} (at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+console.ts:137 [Extension Host] Tool handler registered for file.read (at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+console.ts:137 [Extension Host] Tool handler registered for file.write (at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+console.ts:137 [Extension Host] Tool handler registered for terminal.execute (at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+console.ts:137 [Extension Host] Core Agent integration initialized (at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+console.ts:137 [Extension Host] Subscribed to core agent events (at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+index.html?id=06551382-f20b-4a1c-b375-8c42e1f2f63c&origin=88443b6f-86a0-41f1-bf47-fc3d667dab80&swVersion=4&extensionId=devai.devai-vscode-extension&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app&purpose=webviewView:1060 [Violation] Avoid using document.write(). https://developers.google.com/web/updates/2016/08/removing-document-write
+(anonymous) @ index.html?id=06551382-f20b-4a1c-b375-8c42e1f2f63c&origin=88443b6f-86a0-41f1-bf47-fc3d667dab80&swVersion=4&extensionId=devai.devai-vscode-extension&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app&purpose=webviewView:1060
+main.js:35 Uncaught ReferenceError: exports is not defined
+    at main.js:35:23
+(anonymous) @ main.js:35
+log.ts:440  INFO Auto updating outdated extensions. github.copilot-chat
+log.ts:440  INFO [perf] Render performance baseline is 20ms
+log.ts:440  INFO Auto update disabled for extension github.copilot-chat
+log.ts:460   ERR MainThreadChatAgents2#$updateAgent: No agent with handle 1 registered
+error @ log.ts:460
+error @ log.ts:565
+error @ logService.ts:51
+$updateAgent @ mainThreadChatAgents2.ts:221
+await in $updateAgent
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+B @ event.ts:1208
+fire @ event.ts:1239
+fire @ ipc.net.ts:652
+l.onmessage @ localProcessExtensionHost.ts:378
+log.ts:460   ERR Agent already has implementation: "chat.code"
+error @ log.ts:460
+error @ log.ts:565
+error @ logService.ts:51
+lc @ workbench.ts:116
+(anonymous) @ workbench.ts:97
+onUnexpectedError @ errors.ts:65
+gt @ errors.ts:110
+$onUnexpectedError @ mainThreadErrors.ts:21
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+B @ event.ts:1208
+fire @ event.ts:1239
+fire @ ipc.net.ts:652
+l.onmessage @ localProcessExtensionHost.ts:378
+console.ts:137 [Extension Host] Processing request: Fix bugs in this code with context: {workspace: {…}, editor: {…}} (at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+console.ts:137 [Extension Host] rejected promise not handled within 1 second: Error: An object could not be cloned. (at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+wgs @ console.ts:137
+$logExtensionHostMessage @ mainThreadConsole.ts:39
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+B @ event.ts:1208
+fire @ event.ts:1239
+fire @ ipc.net.ts:652
+l.onmessage @ localProcessExtensionHost.ts:378
+console.ts:137 [Extension Host] stack trace: Error: An object could not be cloned.
+    at MessagePortMain.postMessage (node:electron/js2c/utility_init:2:3178)
+    at Object.send (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2330)
+    at Object.send (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:3945)
+    at i4.U (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116490)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:113467)
+    at vw.g (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40600)
+    at vw.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40543)
+    at Object.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:30346)
+    at CommandManager._openDevAIView (c:\Users\admlocal\Documents\POC\devai\vscode-extension\src\vscode\commandManager.ts:88:23)
+    at vw.h (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:41559)
+    at vw.g (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40636)
+    at vw.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40543)
+    at Object.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:30346)
+    at CommandManager._openDevAIView (c:\Users\admlocal\Documents\POC\devai\vscode-extension\src\vscode\commandManager.ts:88:23)
+    at vw.h (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:41559)
+    at vw.g (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40636)
+    at vw.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40543)
+    at Object.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:30346)
+    at CommandManager._openDevAIView (c:\Users\admlocal\Documents\POC\devai\vscode-extension\src\vscode\commandManager.ts:88:23)
+    at vw.h (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:41559)
+    at vw.g (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40636)
+    at vw.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40543)
+    at Object.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:30346)
+    at CommandManager._openDevAIView (c:\Users\admlocal\Documents\POC\devai\vscode-extension\src\vscode\commandManager.ts:88:23)
+    at vw.h (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:41559)
+    at vw.g (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40636)
+    at vw.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40543)
+    at Object.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:30346)
+    at CommandManager._openDevAIView (c:\Users\admlocal\Documents\POC\devai\vscode-extension\src\vscode\commandManager.ts:88:23)
+    at vw.h (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/(at console.<anonymous> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:30205))
+wgs @ console.ts:137
+$logExtensionHostMessage @ mainThreadConsole.ts:39
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+B @ event.ts:1208
+fire @ event.ts:1239
+fire @ ipc.net.ts:652
+l.onmessage @ localProcessExtensionHost.ts:378
+mainThreadExtensionService.ts:78 [devai.devai-vscode-extension]An object could not be cloned.
+$onExtensionRuntimeError @ mainThreadExtensionService.ts:78
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+B @ event.ts:1208
+fire @ event.ts:1239
+fire @ ipc.net.ts:652
+l.onmessage @ localProcessExtensionHost.ts:378
+mainThreadExtensionService.ts:79 Error: An object could not be cloned.
+    at MessagePortMain.postMessage (node:electron/js2c/utility_init:2:3178)
+    at Object.send (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2330)
+    at Object.send (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:3945)
+    at i4.U (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116490)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:113467)
+    at vw.g (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40600)
+    at vw.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40543)
+    at Object.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:30346)
+    at CommandManager._openDevAIView (c:\Users\admlocal\Documents\POC\devai\vscode-extension\src\vscode\commandManager.ts:88:23)
+    at vw.h (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:41559)
+    at vw.g (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40636)
+    at vw.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40543)
+    at Object.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:30346)
+    at CommandManager._openDevAIView (c:\Users\admlocal\Documents\POC\devai\vscode-extension\src\vscode\commandManager.ts:88:23)
+    at vw.h (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:41559)
+    at vw.g (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40636)
+    at vw.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40543)
+    at Object.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:30346)
+    at CommandManager._openDevAIView (c:\Users\admlocal\Documents\POC\devai\vscode-extension\src\vscode\commandManager.ts:88:23)
+    at vw.h (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:41559)
+    at vw.g (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40636)
+    at vw.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40543)
+    at Object.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:30346)
+    at CommandManager._openDevAIView (c:\Users\admlocal\Documents\POC\devai\vscode-extension\src\vscode\commandManager.ts:88:23)
+    at vw.h (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:41559)
+    at vw.g (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40636)
+    at vw.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:40543)
+    at Object.executeCommand (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:30346)
+    at CommandManager._openDevAIView (c:\Users\admlocal\Documents\POC\devai\vscode-extension\src\vscode\commandManager.ts:88:23)
+    at vw.h (file:///c:/Users/admlocal/AppData/Local/Programs/Microsoft%20VS%20Code%20Insiders/resources/app/out/vs/workbench/api
+$onExtensionRuntimeError @ mainThreadExtensionService.ts:79
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+B @ event.ts:1208
+fire @ event.ts:1239
+fire @ ipc.net.ts:652
+l.onmessage @ localProcessExtensionHost.ts:378
+log.ts:460   ERR An unknown error occurred. Please consult the log for more details.
+error @ log.ts:460
+error @ log.ts:565
+error @ logService.ts:51
+lc @ workbench.ts:116
+(anonymous) @ workbench.ts:97
+onUnexpectedError @ errors.ts:65
+gt @ errors.ts:110
+$onUnexpectedError @ mainThreadErrors.ts:21
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+B @ event.ts:1208
+fire @ event.ts:1239
+fire @ ipc.net.ts:652
+l.onmessage @ localProcessExtensionHost.ts:378

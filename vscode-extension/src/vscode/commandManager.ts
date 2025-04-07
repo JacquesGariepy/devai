@@ -47,25 +47,29 @@ export class CommandManager {
     
     // Alias pour la compatibilité interne
     this._registerCommand('devai.openChatView', this._openChatView.bind(this));
+
+    // Ne pas réenregistrer workbench.view.devai, c'est un ID de vue intégrée à VS Code
+    // this._registerCommand('workbench.view.devai', this._openDevAIView.bind(this));
   }
 
-  /**
-   * Enregistre une commande
-   * @param commandId ID de la commande
-   * @param callback Fonction de rappel
-   */
-  private _registerCommand(commandId: string, callback: (...args: any[]) => any): void {
-    const disposable = vscode.commands.registerCommand(commandId, callback);
-    this.context.subscriptions.push(disposable);
-  }
+  // Flag to prevent recursive calls
+  private _isOpeningView = false;
 
   /**
    * Ouvre la vue de chat
    */
   private async _openChatView(): Promise<void> {
+    if (this._isOpeningView) {
+      console.warn('Chat view is already being opened. Skipping duplicate call.');
+      return;
+    }
+
+    this._isOpeningView = true;
+    
     try {
-      // D'abord ouvrir le conteneur de vues
-      await vscode.commands.executeCommand('workbench.view.devai');
+      // Ouvrir le conteneur de vues sans utiliser workbench.view.devai directement
+      await vscode.commands.executeCommand('workbench.view.extension.devai');
+      
       // Puis se concentrer spécifiquement sur la vue devaiView
       await vscode.commands.executeCommand('devaiView.focus');
     } catch (error) {
@@ -73,7 +77,19 @@ export class CommandManager {
       vscode.window.showErrorMessage(
         this.i18nService.translate('commands.errorOpeningView')
       );
+    } finally {
+      this._isOpeningView = false;
     }
+  }
+
+  /**
+   * Ouvre la vue DevAI
+   * Cette méthode n'est plus utilisée directement
+   * @deprecated Utilisez _openChatView à la place
+   */
+  private _openDevAIView(): void {
+    console.log('_openDevAIView is deprecated. Use _openChatView instead.');
+    this._openChatView();
   }
 
   /**
@@ -195,6 +211,16 @@ export class CommandManager {
    */
   private async _openSettings(): Promise<void> {
     await vscode.commands.executeCommand('workbench.action.openSettings', 'devai');
+  }
+
+  /**
+   * Enregistre une commande dans le contexte de l'extension
+   * @param command Nom de la commande
+   * @param callback Fonction à exécuter
+   */
+  private _registerCommand(command: string, callback: (...args: any[]) => any): void {
+    const disposable = vscode.commands.registerCommand(command, callback);
+    this.context.subscriptions.push(disposable);
   }
 
   /**

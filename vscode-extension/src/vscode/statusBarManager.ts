@@ -78,6 +78,16 @@ export class StatusBarManager {
   }
 
   /**
+   * Initialise le gestionnaire de barre d'état
+   */
+  public initialize(): void {
+    // La plupart de l'initialisation est déjà faite dans le constructeur
+    // Mais cette méthode est fournie pour la cohérence avec les autres gestionnaires
+    this._updateStatusBar();
+    this._statusBarItem.show();
+  }
+
+  /**
    * Dispose des ressources
    */
   public dispose(): void {

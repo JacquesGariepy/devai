@@ -57,13 +57,26 @@ export class ViewProvider implements vscode.WebviewViewProvider {
    */
   private _updateStatusInWebview(status: any): void {
     if (!this._view) {
+      console.warn('WebView is not initialized. Cannot update status.');
       return;
     }
 
-    this._view.webview.postMessage({
-      command: 'updateStatus',
-      status
-    });
+    try {
+      // Log the status being sent
+      console.log('Updating WebView status:', status);
+
+      // Ensure status is iterable or properly structured
+      if (Array.isArray(status) || typeof status === 'object') {
+        this._view.webview.postMessage({
+          command: 'updateStatus',
+          status
+        });
+      } else {
+        console.warn('Status is not iterable or valid:', status);
+      }
+    } catch (error) {
+      console.error('Error updating status in WebView:', error);
+    }
   }
 
   /**

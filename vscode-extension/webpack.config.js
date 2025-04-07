@@ -61,7 +61,8 @@ const webviewConfig = {
   output: {
     path: path.resolve(__dirname, 'out/webview'),
     filename: 'main.js',
-    libraryTarget: 'commonjs2'
+    libraryTarget: 'umd', // Changer de commonjs2 à umd pour compatibilité navigateur
+    globalObject: 'this' // Définit un objet global compatible avec les navigateurs
   },
   resolve: {
     extensions: ['.ts', '.tsx', '.js', '.jsx', '.css']

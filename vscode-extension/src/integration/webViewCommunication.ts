@@ -45,8 +45,14 @@ export class WebViewCommunication {
    * @param message Message à envoyer
    */
   public sendMessage(message: any): void {
-    if (this._webview) {
-      this._webview.postMessage(message);
+    try {
+      if (this._webview) {
+        // Ensure the message is serializable
+        const serializedMessage = JSON.stringify(message);
+        this._webview.postMessage(JSON.parse(serializedMessage));
+      }
+    } catch (error) {
+      console.error('Error sending message to WebView:', error);
     }
   }
 

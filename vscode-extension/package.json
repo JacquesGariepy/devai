@@ -65,7 +65,7 @@
       {
         "command": "devai.generateDocumentation",
         "title": "DevAI: Générer de la documentation"
-      }
+            }
     ],
     "viewsContainers": {
       "activitybar": [

@@ -79,10 +79,10 @@ export async function activate(context: vscode.ExtensionContext) {
     // Initialiser le gestionnaire de barre d'état
     const statusBarManager = new StatusBarManager(i18nService, coreAgentService);
 
-    // Enregistrer les fournisseurs de vue
+    // Enregistrer les fournisseurs de vue avec les identifiants corrects
     context.subscriptions.push(
       vscode.window.registerWebviewViewProvider(
-        'devaiView', // Cet ID doit correspondre exactement à celui défini dans package.json
+        'devaiView', // ID de la vue défini dans package.json
         viewProvider
       ),
       vscode.window.registerWebviewViewProvider(
@@ -94,6 +94,9 @@ export async function activate(context: vscode.ExtensionContext) {
         toolsViewProvider
       )
     );
+
+    // Initialiser le gestionnaire de barre d'état
+    statusBarManager.initialize();
 
     // Afficher un message de bienvenue
     vscode.window.showInformationMessage(
